@@ -1,26 +1,19 @@
 {
   "backofficeuserroles": [
-  {
-    "email": "co@gmail.com",
-    "user_role": "CO",
-    "co_assign_dt": "2000-05-06T00:00:00"
-  },
-  {
-    "email": "liloan%gmail.com",
-    "user_role": "CO",
-    "co_assign_dt": "2000-05-06T00:00:00"
-  },
-  {
-    "email": "2",
-    "user_role": "SA",
-    "co_assign_dt": "2000-05-06T00:00:00"
-  },
-  {
-    "email": "1",
-    "user_role": "UA",
-    "co_assign_dt": "2000-05-06T00:00:00"
-  }
-],
+    {
+      "email": "co@gmail.com",
+      "user_role": "CO",
+      "co_assign_dt": "2000-05-06T00:00:00"
+    },
+    {
+      "email": 2,
+      "title": "Post 2"
+    },
+    {
+      "email": 3,
+      "title": "Post 3"
+    }
+  ],
   "comments": [
     {
       "id": 1,
